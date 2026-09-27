@@ -1,10 +1,10 @@
 <p align="right"><a href="README.pt-BR.md">🇧🇷 Português</a></p>
 
-<p align="center"><a href="https://whatevertr.github.io/jogo-taxonomia/"><img src="assets/banner.svg" alt="Constelação Taxonômica" width="100%"></a></p>
+<p align="center"><a href="https://whatevertr.github.io/nud-jogo-taxonomia/"><img src="assets/banner.svg" alt="Constelação Taxonômica" width="100%"></a></p>
 
 # Constelação Taxonômica
 
-### ▶ [**Play in the browser →**](https://whatevertr.github.io/jogo-taxonomia/)
+### ▶ [**Play in the browser →**](https://whatevertr.github.io/nud-jogo-taxonomia/)
 
 A small browser puzzle game about **organizing context into taxonomies**. You drag concepts and connect them under the right group, building a classification tree. It is, basically, the [Constellation Method](https://github.com/whatevertr/nud-constellation-method) as a game: the skill of putting scattered information into the right structure, practiced level by level.
 
@@ -12,7 +12,7 @@ A small browser puzzle game about **organizing context into taxonomies**. You dr
 
 ## Play
 
-**[Play now at whatevertr.github.io/jogo-taxonomia](https://whatevertr.github.io/jogo-taxonomia/)** — press **JOGAR**. No install, no server. (Prefer offline? Clone the repo and open `index.html` locally; it works with no server.)
+**[Play now at whatevertr.github.io/nud-jogo-taxonomia](https://whatevertr.github.io/nud-jogo-taxonomia/)** — press **JOGAR**. No install, no server. (Prefer offline? Clone the repo and open `index.html` locally; it works with no server.)
 
 - **Drag** a concept and **drop it onto** another to connect it.
 - Drop on empty space to just **move**; **double click** to disconnect.
