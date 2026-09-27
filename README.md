@@ -6,7 +6,7 @@
 
 ### ▶ [**Play in the browser →**](https://whatevertr.github.io/jogo-taxonomia/)
 
-A small browser puzzle game about **organizing context into taxonomies**. You drag concepts and connect them under the right group, building a classification tree. It is, basically, the [Constellation Method](https://github.com/whatevertr/constellation-method) as a game: the skill of putting scattered information into the right structure, practiced level by level.
+A small browser puzzle game about **organizing context into taxonomies**. You drag concepts and connect them under the right group, building a classification tree. It is, basically, the [Constellation Method](https://github.com/whatevertr/nud-constellation-method) as a game: the skill of putting scattered information into the right structure, practiced level by level.
 
 > **Status.** Work in progress. This is **Wave 1**: seven playable levels, from concrete taxonomies to epistemic distinctions. More levels (and a deeper engine) will come later, I have a day job and not much spare time.
 
